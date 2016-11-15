@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/09 17:16:07.000.635,=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>2016/11/09 17:16:07.000.592,=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/09 17:22:19.000.165,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit7.cpp=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\07 Macros\Unit7.cpp</Transaction>
+    <Transaction>2016/11/09 17:22:19.000.165,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit7.dfm=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\07 Macros\Unit7.dfm</Transaction>
+    <Transaction>2016/11/09 17:22:19.000.165,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit7.h=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\07 Macros\Unit7.h</Transaction>
+    <Transaction>2016/11/09 17:22:24.000.469,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\07 Macros\MacrosPCH1.h</Transaction>
+    <Transaction>2016/11/09 17:22:29.000.275,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\07 Macros\Macros.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

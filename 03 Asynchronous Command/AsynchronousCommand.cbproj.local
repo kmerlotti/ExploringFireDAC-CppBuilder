@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/09 13:11:13.000.259,=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/09 13:11:13.000.292,=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2016/11/09 13:12:17.000.613,C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\03 Asynchronous Command\Unit4.dfm=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2016/11/09 13:12:17.000.613,C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\03 Asynchronous Command\Unit4.cpp=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2016/11/09 13:12:17.000.613,C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\03 Asynchronous Command\Unit4.h=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>2016/11/09 13:12:31.000.438,C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\03 Asynchronous Command\AsynchronousCommandPCH1.h=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/09 13:12:32.000.719,C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\03 Asynchronous Command\AsynchronousCommand.cbproj=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

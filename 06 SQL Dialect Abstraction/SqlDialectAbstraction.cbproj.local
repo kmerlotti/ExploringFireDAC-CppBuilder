@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/09 16:20:58.000.566,=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2016/11/09 16:20:58.000.528,=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/09 16:21:15.000.066,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit6.h=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\06 SQL Dialect Abstraction\Unit6.h</Transaction>
+    <Transaction>2016/11/09 16:21:15.000.066,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\06 SQL Dialect Abstraction\Unit6.dfm</Transaction>
+    <Transaction>2016/11/09 16:21:15.000.066,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit6.cpp=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\06 SQL Dialect Abstraction\Unit6.cpp</Transaction>
+    <Transaction>2016/11/09 16:21:46.000.410,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\06 SQL Dialect Abstraction\SqlDialectAbstractionPCH1.h</Transaction>
+    <Transaction>2016/11/09 16:21:49.000.012,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\06 SQL Dialect Abstraction\SqlDialectAbstraction.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

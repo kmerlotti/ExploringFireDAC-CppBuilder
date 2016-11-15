@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/09 17:24:36.000.996,=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/09 17:24:37.000.030,=C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+    <Transaction>2016/11/09 17:24:53.000.372,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit8.cpp=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\08 Unified Exceptions\Unit8.cpp</Transaction>
+    <Transaction>2016/11/09 17:24:53.000.372,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit8.h=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\08 Unified Exceptions\Unit8.h</Transaction>
+    <Transaction>2016/11/09 17:24:53.000.372,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Unit8.dfm=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\08 Unified Exceptions\Unit8.dfm</Transaction>
+    <Transaction>2016/11/09 17:25:06.000.121,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\08 Unified Exceptions\UnifiedExceptionsPCH1.h</Transaction>
+    <Transaction>2016/11/09 17:25:13.000.656,C:\Users\Kelver\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Kelver\Desktop\CodeRage XI\FireDAC\CBuilderSamples\08 Unified Exceptions\UnifiedExceptions.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
